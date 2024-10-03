@@ -11,4 +11,7 @@ Nous sommes 2 étudiants de Webtech et nous avons été accompagné par un prof 
 * Mr Kouamé
 ## Durée
 Ce projet à été pensé, créé et finalisé en quelque heures, 6 pour être précis 
-
+## Besoin pour le projet
+* machine a café
+* ordinateur
+* cerveau
