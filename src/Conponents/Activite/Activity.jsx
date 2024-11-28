@@ -9,7 +9,7 @@ export function ActivityPage() {
                 <div className={styles.card}>
                     <section className={styles.section}>
                         <h2>Activité 1</h2>
-                        <p>Description de l'activité 1.</p>
+                        <p>Description de l'activité 1.Cette activité est :</p>
                     </section>
                 </div>
                 <div className={styles.card}>
